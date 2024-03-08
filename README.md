@@ -12,7 +12,8 @@ Entonces te animamos a que devuelvas al repositorio los avances realizados.
 Sigue los siguientes pasos para hacer una contribución a la herramienta digital:
 
 1. Haz un fork del repositorio.
-2. Desarrolla la nueva funcionalidad o los haz los cambios que creas que agregan valor a la herramienta
-3. Haz un "pull request" documentando detalladamente los cambios propuestos en el repositorio.
+2. En tu consola (GitBash) utiliza el comando "git clone https://github.com/rodrigo-a-flores/Proyecto-SPA.git" para clonar el repositorio ya forkeado en tu local. 
+3. Desarrolla la nueva funcionalidad o los haz los cambios que creas que agregan valor a la herramienta
+4. Haz un "pull request" documentando detalladamente los cambios propuestos en el repositorio.
 
 **Si no has contribuido al repositorio, pero la herramienta te ha sido útil, nos encantaría escuchar la experiencia. MUCHAS GRACIAS!!!**
